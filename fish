@@ -1,1 +1,1 @@
-namd : fish__01
+name : fish__01

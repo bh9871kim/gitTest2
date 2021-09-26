@@ -1,6 +1,4 @@
-namd : dog__01
-namd : dog__21
+name : dog__01
+name : dog__21
 
-
-
-namd : dog__121
+name : dog__121
